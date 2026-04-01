@@ -72,7 +72,7 @@
               </svg>
             </a>
             <a
-              href="www.linkedin.com/in/rowena-cornejo"
+              href="https://www.linkedin.com/in/rowena-cornejo"
               class="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-blue-600 transition-colors duration-300"
               aria-label="LinkedIn"
             >
