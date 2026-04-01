@@ -1,0 +1,20 @@
+@import './base.css';
+@import 'tailwindcss';
+
+html {
+  scroll-behavior: smooth;
+}
+
+#app {
+  font-weight: normal;
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    margin: 0;
+    font-weight: normal;
+  }
+}
